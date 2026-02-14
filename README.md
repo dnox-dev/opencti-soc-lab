@@ -29,12 +29,15 @@ This project documents my hands-on lab for building a mini SOC Cyber Threat Inte
 
 **OpenCTI Dashboard**
 ![OpenCTI Dashboard](./openctidashboard.png)
+**OpenCTI Dashboard** – Shows initial dashboard view after setup.
 
 **Docker Containers Status**
 ![Docker containers status](./docker-ps.png)
+**Docker Containers Status** – All core containers healthy & running. 
 
 **AlienVault OTX Connector (Active)**
 ![AlienVault OTX Connector](./opencti-connector-alienvault.png)
+**AlienVault OTX Connector** – Active ingestion of threat intelligence (132k+ msgs).
 
 > Note: Sensitive information (IP, credentials, API keys) has been removed or blurred.
 
