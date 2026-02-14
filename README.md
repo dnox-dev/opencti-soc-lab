@@ -22,7 +22,7 @@ This project documents my hands-on lab for building a mini SOC Cyber Threat Inte
 - Verified OpenCTI dashboard access
 
 ## Screenshots
-![OpenCTI Dashboard](./dashboard.png)
+![OpenCTI Dashboard](./openctidashboard.png)
 ![Docker Containers Status](./docker-ps.png)
 
 > Note: Sensitive information (IP, credentials, API keys) has been removed or blurred.
