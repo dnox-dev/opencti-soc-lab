@@ -21,6 +21,10 @@ This project documents my hands-on lab for building a mini SOC Cyber Threat Inte
 - Troubleshot login issues, unhealthy containers, and port conflicts  
 - Verified OpenCTI dashboard access
 
+## Threat Feeds
+- **AlienVault OTX (Pulse)** — Active connector ingesting real-world threat intelligence (IOCs, pulses).  
+  _Example: 132k+ messages processed during lab operation._
+
 ## Screenshots
 
 **OpenCTI Dashboard**
