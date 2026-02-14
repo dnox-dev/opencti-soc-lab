@@ -24,7 +24,7 @@ This project documents my hands-on lab for building a mini SOC Cyber Threat Inte
 ## Screenshots
 
 **OpenCTI Dashboard**
-![OpenCTI Dashboard](./opencti-dashboard.png)
+![OpenCTI Dashboard](./openctidashboard.png)
 
 **Docker Containers Status**
 ![Docker containers status](./docker-ps.png)
