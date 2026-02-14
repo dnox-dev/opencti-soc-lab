@@ -22,8 +22,15 @@ This project documents my hands-on lab for building a mini SOC Cyber Threat Inte
 - Verified OpenCTI dashboard access
 
 ## Screenshots
-![OpenCTI Dashboard](./openctidashboard.png)
-![Docker Containers Status](./docker-ps.png)
+
+**OpenCTI Dashboard**
+![OpenCTI Dashboard](./opencti-dashboard.png)
+
+**Docker Containers Status**
+![Docker containers status](./docker-ps.png)
+
+**AlienVault OTX Connector (Active)**
+![AlienVault OTX Connector](./opencti-connector-alienvault.png)
 
 > Note: Sensitive information (IP, credentials, API keys) has been removed or blurred.
 
